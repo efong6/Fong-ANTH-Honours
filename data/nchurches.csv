@@ -1,0 +1,452 @@
+decade,ctr2,V1,Region
+700,de_south,1,Southern Germany
+720,de_south,1,Southern Germany
+740,de_south,2,Southern Germany
+760,de_south,10,Southern Germany
+780,de_south,6,Southern Germany
+800,de_south,3,Southern Germany
+820,de_south,18,Southern Germany
+840,de_south,18,Southern Germany
+860,de_south,18,Southern Germany
+880,de_south,14,Southern Germany
+900,de_south,16,Southern Germany
+920,de_south,9,Southern Germany
+940,de_south,12,Southern Germany
+960,de_south,16,Southern Germany
+980,de_south,12,Southern Germany
+1000,de_south,14,Southern Germany
+1020,de_south,28,Southern Germany
+1040,de_south,24,Southern Germany
+1060,de_south,30,Southern Germany
+1080,de_south,27,Southern Germany
+1100,de_south,25,Southern Germany
+1120,de_south,25,Southern Germany
+1140,de_south,25,Southern Germany
+1160,de_south,31,Southern Germany
+1180,de_south,26,Southern Germany
+1200,de_south,27,Southern Germany
+1220,de_south,20,Southern Germany
+1240,de_south,29,Southern Germany
+1260,de_south,37,Southern Germany
+1280,de_south,38,Southern Germany
+1300,de_south,34,Southern Germany
+1320,de_south,33,Southern Germany
+1340,de_south,42,Southern Germany
+1360,de_south,40,Southern Germany
+1380,de_south,34,Southern Germany
+1400,de_south,36,Southern Germany
+1420,de_south,44,Southern Germany
+1440,de_south,49,Southern Germany
+1460,de_south,50,Southern Germany
+1480,de_south,47,Southern Germany
+1500,de_south,44,Southern Germany
+700,it_north,22,Northern Italy
+720,it_north,30,Northern Italy
+740,it_north,32,Northern Italy
+760,it_north,31,Northern Italy
+780,it_north,31,Northern Italy
+800,it_north,31,Northern Italy
+820,it_north,40,Northern Italy
+840,it_north,40,Northern Italy
+860,it_north,39,Northern Italy
+880,it_north,37,Northern Italy
+900,it_north,38,Northern Italy
+920,it_north,40,Northern Italy
+940,it_north,42,Northern Italy
+960,it_north,44,Northern Italy
+980,it_north,42,Northern Italy
+1000,it_north,48,Northern Italy
+1020,it_north,60,Northern Italy
+1040,it_north,61,Northern Italy
+1060,it_north,62,Northern Italy
+1080,it_north,59,Northern Italy
+1100,it_north,56,Northern Italy
+1120,it_north,79,Northern Italy
+1140,it_north,84,Northern Italy
+1160,it_north,94,Northern Italy
+1180,it_north,80,Northern Italy
+1200,it_north,78,Northern Italy
+1220,it_north,79,Northern Italy
+1240,it_north,100,Northern Italy
+1260,it_north,114,Northern Italy
+1280,it_north,95,Northern Italy
+1300,it_north,105,Northern Italy
+1320,it_north,86,Northern Italy
+1340,it_north,72,Northern Italy
+1360,it_north,68,Northern Italy
+1380,it_north,63,Northern Italy
+1400,it_north,64,Northern Italy
+1420,it_north,55,Northern Italy
+1440,it_north,56,Northern Italy
+1460,it_north,72,Northern Italy
+1480,it_north,72,Northern Italy
+1500,it_north,86,Northern Italy
+700,uk_south,0,Southern UK
+720,uk_south,11,Southern UK
+740,uk_south,11,Southern UK
+760,uk_south,11,Southern UK
+780,uk_south,11,Southern UK
+800,uk_south,11,Southern UK
+820,uk_south,12,Southern UK
+840,uk_south,12,Southern UK
+860,uk_south,12,Southern UK
+880,uk_south,12,Southern UK
+900,uk_south,12,Southern UK
+920,uk_south,7,Southern UK
+940,uk_south,7,Southern UK
+960,uk_south,8,Southern UK
+980,uk_south,11,Southern UK
+1000,uk_south,10,Southern UK
+1020,uk_south,7,Southern UK
+1040,uk_south,6,Southern UK
+1060,uk_south,9,Southern UK
+1080,uk_south,9,Southern UK
+1100,uk_south,19,Southern UK
+1120,uk_south,30,Southern UK
+1140,uk_south,30,Southern UK
+1160,uk_south,30,Southern UK
+1180,uk_south,23,Southern UK
+1200,uk_south,29,Southern UK
+1220,uk_south,29,Southern UK
+1240,uk_south,28,Southern UK
+1260,uk_south,29,Southern UK
+1280,uk_south,27,Southern UK
+1300,uk_south,27,Southern UK
+1320,uk_south,25,Southern UK
+1340,uk_south,23,Southern UK
+1360,uk_south,20,Southern UK
+1380,uk_south,23,Southern UK
+1400,uk_south,18,Southern UK
+1420,uk_south,20,Southern UK
+1440,uk_south,19,Southern UK
+1460,uk_south,25,Southern UK
+1480,uk_south,20,Southern UK
+1500,uk_south,19,Southern UK
+700,fr_south,0,Southern France
+720,fr_south,45,Southern France
+740,fr_south,45,Southern France
+760,fr_south,47,Southern France
+780,fr_south,49,Southern France
+800,fr_south,50,Southern France
+820,fr_south,56,Southern France
+840,fr_south,55,Southern France
+860,fr_south,57,Southern France
+880,fr_south,53,Southern France
+900,fr_south,53,Southern France
+920,fr_south,38,Southern France
+940,fr_south,36,Southern France
+960,fr_south,38,Southern France
+980,fr_south,36,Southern France
+1000,fr_south,35,Southern France
+1020,fr_south,47,Southern France
+1040,fr_south,49,Southern France
+1060,fr_south,52,Southern France
+1080,fr_south,55,Southern France
+1100,fr_south,66,Southern France
+1120,fr_south,70,Southern France
+1140,fr_south,71,Southern France
+1160,fr_south,70,Southern France
+1180,fr_south,66,Southern France
+1200,fr_south,63,Southern France
+1220,fr_south,48,Southern France
+1240,fr_south,48,Southern France
+1260,fr_south,55,Southern France
+1280,fr_south,60,Southern France
+1300,fr_south,62,Southern France
+1320,fr_south,65,Southern France
+1340,fr_south,67,Southern France
+1360,fr_south,62,Southern France
+1380,fr_south,60,Southern France
+1400,fr_south,58,Southern France
+1420,fr_south,41,Southern France
+1440,fr_south,44,Southern France
+1460,fr_south,52,Southern France
+1480,fr_south,52,Southern France
+1500,fr_south,50,Southern France
+700,de_north,1,Notherern Germany
+720,de_north,1,Notherern Germany
+740,de_north,2,Notherern Germany
+760,de_north,5,Notherern Germany
+780,de_north,5,Notherern Germany
+800,de_north,11,Notherern Germany
+820,de_north,17,Notherern Germany
+840,de_north,12,Notherern Germany
+860,de_north,18,Notherern Germany
+880,de_north,12,Notherern Germany
+900,de_north,9,Notherern Germany
+920,de_north,9,Notherern Germany
+940,de_north,12,Notherern Germany
+960,de_north,20,Notherern Germany
+980,de_north,21,Notherern Germany
+1000,de_north,13,Notherern Germany
+1020,de_north,30,Notherern Germany
+1040,de_north,39,Notherern Germany
+1060,de_north,39,Notherern Germany
+1080,de_north,33,Notherern Germany
+1100,de_north,29,Notherern Germany
+1120,de_north,54,Notherern Germany
+1140,de_north,56,Notherern Germany
+1160,de_north,71,Notherern Germany
+1180,de_north,66,Notherern Germany
+1200,de_north,57,Notherern Germany
+1220,de_north,59,Notherern Germany
+1240,de_north,84,Notherern Germany
+1260,de_north,91,Notherern Germany
+1280,de_north,73,Notherern Germany
+1300,de_north,87,Notherern Germany
+1320,de_north,75,Notherern Germany
+1340,de_north,73,Notherern Germany
+1360,de_north,75,Notherern Germany
+1380,de_north,65,Notherern Germany
+1400,de_north,70,Notherern Germany
+1420,de_north,67,Notherern Germany
+1440,de_north,70,Notherern Germany
+1460,de_north,78,Notherern Germany
+1480,de_north,72,Notherern Germany
+1500,de_north,62,Notherern Germany
+700,be,0,Belgium
+720,be,5,Belgium
+740,be,5,Belgium
+760,be,5,Belgium
+780,be,5,Belgium
+800,be,4,Belgium
+820,be,9,Belgium
+840,be,8,Belgium
+860,be,8,Belgium
+880,be,5,Belgium
+900,be,5,Belgium
+920,be,7,Belgium
+940,be,8,Belgium
+960,be,9,Belgium
+980,be,10,Belgium
+1000,be,12,Belgium
+1020,be,18,Belgium
+1040,be,19,Belgium
+1060,be,24,Belgium
+1080,be,18,Belgium
+1100,be,14,Belgium
+1120,be,28,Belgium
+1140,be,35,Belgium
+1160,be,36,Belgium
+1180,be,28,Belgium
+1200,be,26,Belgium
+1220,be,26,Belgium
+1240,be,28,Belgium
+1260,be,37,Belgium
+1280,be,30,Belgium
+1300,be,29,Belgium
+1320,be,28,Belgium
+1340,be,28,Belgium
+1360,be,31,Belgium
+1380,be,28,Belgium
+1400,be,31,Belgium
+1420,be,38,Belgium
+1440,be,36,Belgium
+1460,be,41,Belgium
+1480,be,42,Belgium
+1500,be,40,Belgium
+700,fr_north,0,Northern France
+720,fr_north,57,Northern France
+740,fr_north,61,Northern France
+760,fr_north,61,Northern France
+780,fr_north,58,Northern France
+800,fr_north,61,Northern France
+820,fr_north,64,Northern France
+840,fr_north,63,Northern France
+860,fr_north,74,Northern France
+880,fr_north,64,Northern France
+900,fr_north,65,Northern France
+920,fr_north,40,Northern France
+940,fr_north,39,Northern France
+960,fr_north,46,Northern France
+980,fr_north,47,Northern France
+1000,fr_north,51,Northern France
+1020,fr_north,78,Northern France
+1040,fr_north,86,Northern France
+1060,fr_north,86,Northern France
+1080,fr_north,82,Northern France
+1100,fr_north,86,Northern France
+1120,fr_north,87,Northern France
+1140,fr_north,107,Northern France
+1160,fr_north,125,Northern France
+1180,fr_north,116,Northern France
+1200,fr_north,124,Northern France
+1220,fr_north,109,Northern France
+1240,fr_north,126,Northern France
+1260,fr_north,116,Northern France
+1280,fr_north,104,Northern France
+1300,fr_north,96,Northern France
+1320,fr_north,80,Northern France
+1340,fr_north,83,Northern France
+1360,fr_north,86,Northern France
+1380,fr_north,70,Northern France
+1400,fr_north,71,Northern France
+1420,fr_north,79,Northern France
+1440,fr_north,90,Northern France
+1460,fr_north,102,Northern France
+1480,fr_north,97,Northern France
+1500,fr_north,109,Northern France
+700,uk_north,0,Northern UK
+720,uk_north,7,Northern UK
+740,uk_north,7,Northern UK
+760,uk_north,8,Northern UK
+780,uk_north,8,Northern UK
+800,uk_north,7,Northern UK
+820,uk_north,6,Northern UK
+840,uk_north,6,Northern UK
+860,uk_north,6,Northern UK
+880,uk_north,6,Northern UK
+900,uk_north,6,Northern UK
+920,uk_north,3,Northern UK
+940,uk_north,3,Northern UK
+960,uk_north,3,Northern UK
+980,uk_north,3,Northern UK
+1000,uk_north,3,Northern UK
+1020,uk_north,6,Northern UK
+1040,uk_north,5,Northern UK
+1060,uk_north,5,Northern UK
+1080,uk_north,6,Northern UK
+1100,uk_north,10,Northern UK
+1120,uk_north,14,Northern UK
+1140,uk_north,16,Northern UK
+1160,uk_north,12,Northern UK
+1180,uk_north,10,Northern UK
+1200,uk_north,13,Northern UK
+1220,uk_north,13,Northern UK
+1240,uk_north,14,Northern UK
+1260,uk_north,13,Northern UK
+1280,uk_north,11,Northern UK
+1300,uk_north,9,Northern UK
+1320,uk_north,12,Northern UK
+1340,uk_north,13,Northern UK
+1360,uk_north,12,Northern UK
+1380,uk_north,10,Northern UK
+1400,uk_north,13,Northern UK
+1420,uk_north,14,Northern UK
+1440,uk_north,16,Northern UK
+1460,uk_north,16,Northern UK
+1480,uk_north,11,Northern UK
+1500,uk_north,10,Northern UK
+700,it_south,5,Southern Italy
+720,it_south,10,Southern Italy
+740,it_south,10,Southern Italy
+760,it_south,11,Southern Italy
+780,it_south,11,Southern Italy
+800,it_south,13,Southern Italy
+820,it_south,12,Southern Italy
+840,it_south,11,Southern Italy
+860,it_south,11,Southern Italy
+880,it_south,10,Southern Italy
+900,it_south,11,Southern Italy
+920,it_south,14,Southern Italy
+940,it_south,13,Southern Italy
+960,it_south,14,Southern Italy
+980,it_south,15,Southern Italy
+1000,it_south,14,Southern Italy
+1020,it_south,18,Southern Italy
+1040,it_south,17,Southern Italy
+1060,it_south,22,Southern Italy
+1080,it_south,32,Southern Italy
+1100,it_south,56,Southern Italy
+1120,it_south,42,Southern Italy
+1140,it_south,36,Southern Italy
+1160,it_south,38,Southern Italy
+1180,it_south,36,Southern Italy
+1200,it_south,34,Southern Italy
+1220,it_south,32,Southern Italy
+1240,it_south,37,Southern Italy
+1260,it_south,42,Southern Italy
+1280,it_south,38,Southern Italy
+1300,it_south,43,Southern Italy
+1320,it_south,39,Southern Italy
+1340,it_south,36,Southern Italy
+1360,it_south,31,Southern Italy
+1380,it_south,23,Southern Italy
+1400,it_south,21,Southern Italy
+1420,it_south,15,Southern Italy
+1440,it_south,12,Southern Italy
+1460,it_south,15,Southern Italy
+1480,it_south,23,Southern Italy
+1500,it_south,14,Southern Italy
+700,ch,0,Switzerland
+720,ch,4,Switzerland
+740,ch,5,Switzerland
+760,ch,6,Switzerland
+780,ch,4,Switzerland
+800,ch,3,Switzerland
+820,ch,3,Switzerland
+840,ch,4,Switzerland
+860,ch,5,Switzerland
+880,ch,4,Switzerland
+900,ch,2,Switzerland
+920,ch,0,Switzerland
+940,ch,0,Switzerland
+960,ch,1,Switzerland
+980,ch,1,Switzerland
+1000,ch,1,Switzerland
+1020,ch,6,Switzerland
+1040,ch,4,Switzerland
+1060,ch,6,Switzerland
+1080,ch,5,Switzerland
+1100,ch,5,Switzerland
+1120,ch,8,Switzerland
+1140,ch,6,Switzerland
+1160,ch,7,Switzerland
+1180,ch,9,Switzerland
+1200,ch,13,Switzerland
+1220,ch,9,Switzerland
+1240,ch,11,Switzerland
+1260,ch,12,Switzerland
+1280,ch,13,Switzerland
+1300,ch,10,Switzerland
+1320,ch,9,Switzerland
+1340,ch,6,Switzerland
+1360,ch,6,Switzerland
+1380,ch,6,Switzerland
+1400,ch,6,Switzerland
+1420,ch,7,Switzerland
+1440,ch,6,Switzerland
+1460,ch,7,Switzerland
+1480,ch,7,Switzerland
+1500,ch,8,Switzerland
+700,nl,0,Netherlands
+720,nl,2,Netherlands
+740,nl,2,Netherlands
+760,nl,2,Netherlands
+780,nl,2,Netherlands
+800,nl,2,Netherlands
+820,nl,2,Netherlands
+840,nl,2,Netherlands
+860,nl,2,Netherlands
+880,nl,2,Netherlands
+900,nl,2,Netherlands
+920,nl,3,Netherlands
+940,nl,5,Netherlands
+960,nl,7,Netherlands
+980,nl,5,Netherlands
+1000,nl,5,Netherlands
+1020,nl,4,Netherlands
+1040,nl,7,Netherlands
+1060,nl,8,Netherlands
+1080,nl,5,Netherlands
+1100,nl,4,Netherlands
+1120,nl,6,Netherlands
+1140,nl,8,Netherlands
+1160,nl,12,Netherlands
+1180,nl,10,Netherlands
+1200,nl,9,Netherlands
+1220,nl,20,Netherlands
+1240,nl,20,Netherlands
+1260,nl,26,Netherlands
+1280,nl,24,Netherlands
+1300,nl,26,Netherlands
+1320,nl,19,Netherlands
+1340,nl,19,Netherlands
+1360,nl,19,Netherlands
+1380,nl,18,Netherlands
+1400,nl,25,Netherlands
+1420,nl,32,Netherlands
+1440,nl,37,Netherlands
+1460,nl,42,Netherlands
+1480,nl,33,Netherlands
+1500,nl,30,Netherlands

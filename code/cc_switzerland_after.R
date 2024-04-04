@@ -1,0 +1,48 @@
+library("tidyverse")
+
+source("my-useful-function.R")
+cc_switzerland <- prepare_the_regional_data("ch", 768, 968)
+
+# Use these slope values for interpretation of the period
+# slope is -0.864 slope max 0.391 and slope min -1.752
+#stationary with components of random and directional
+library(ggbeeswarm)
+
+ggplot(data.frame(cc_switzerland$bootresultd[[2]])) +
+  aes(0.25, 
+      slope) +
+  geom_boxplot() +
+  geom_quasirandom(alpha = 0.1) +
+  annotate("segment",
+           y =      cc_switzerland$slope_max,
+           yend =   cc_switzerland$slope_max,
+           x = 0,
+           xend = 0.5,
+           colour = "red") +
+  annotate("segment",
+           y =     cc_switzerland$slope_min,
+           yend =  cc_switzerland$slope_min,
+           x =    0,
+           xend = 0.5,
+           colour = "red") +
+  annotate("text",
+           x = -0.5,
+           y =  0,
+           label = "Directional\n(slope at or near 0)") +
+  annotate("text",
+           x = -0.5,
+           y = -0.5,
+           label = "Random\n(slope at or near -0.5)") +
+  annotate("text",
+           x = -0.5,
+           y = -1,
+           label = "Stationary\n(slope at or near -1)") +
+  theme_minimal() +
+  theme(axis.ticks.x = element_blank(),
+        axis.text.x = element_blank(),
+        axis.title.x = element_blank()) +
+  scale_x_continuous(limits = c(-0.8, 1)) +
+  scale_y_continuous(limits = c(-1.5, 0.5))
+
+ggsave("cc_switzerland_after.pdf")
+

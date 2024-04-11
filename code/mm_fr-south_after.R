@@ -1,6 +1,6 @@
 library("tidyverse")
 
-source("my-useful-function.R")
+source("code/my-useful-function.R")
 mm_frsouth <- prepare_the_regional_data("fr_south", 1000, 1200)
 
 # Use these slope values for interpretation of the period
@@ -44,4 +44,4 @@ ggplot(data.frame(mm_frsouth$bootresultd[[2]])) +
   scale_x_continuous(limits = c(-0.8, 1)) +
   scale_y_continuous(limits = c(-1.5, 0.5))
 
-ggsave("mm_fr-south_before.pdf")
+ggsave("mm_fr-south_after.pdf")

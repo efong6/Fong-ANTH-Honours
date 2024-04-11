@@ -1,6 +1,6 @@
 library("tidyverse")
 
-source("my-useful-function.R")
+source("code/my-useful-function.R")
 bd_itsouth <- prepare_the_regional_data("it_south", 1140, 1340)
 
 # Use these slope values for interpretation of the period

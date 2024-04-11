@@ -1,6 +1,6 @@
 library("tidyverse")
 
-source("my-useful-function.R")
+source("code/my-useful-function.R")
 gc_nl <- prepare_the_regional_data("nl", 940, 1140)
 
 # Use these slope values for interpretation of the period
@@ -44,4 +44,4 @@ ggplot(data.frame(gc_nl$bootresultd[[2]])) +
   scale_x_continuous(limits = c(-0.8, 1)) +
   scale_y_continuous(limits = c(-1.25, 0.5))
 
-ggsave("gc_switzerland_before.pdf")
+ggsave("gc_netherlands_before.pdf")

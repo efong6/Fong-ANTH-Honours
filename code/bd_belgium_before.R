@@ -1,6 +1,6 @@
 library("tidyverse")
 
-source("my-useful-function.R")
+source("code/my-useful-function.R")
 bd_belgium <- prepare_the_regional_data("be", 1140, 1340)
 
 # Use these slope values for interpretation of the period

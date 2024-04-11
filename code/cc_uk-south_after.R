@@ -1,6 +1,6 @@
 library("tidyverse")
 
-source("my-useful-function.R")
+source("code/my-useful-function.R")
 cc_uksouth <- prepare_the_regional_data("uk_south", 768, 968)
 
 # Use these slope values for interpretation of the period

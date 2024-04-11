@@ -1,6 +1,6 @@
 library("tidyverse")
 
-source("my-useful-function.R")
+source("code/my-useful-function.R")
 mm_ch <- prepare_the_regional_data("ch", 800, 1000)
 
 # Use these slope values for interpretation of the period

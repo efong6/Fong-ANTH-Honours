@@ -1,5 +1,5 @@
 library("tidyverse")
-regions <- read.csv("eutotal_by_region_with_n.csv")
+regions <- read.csv("data/eutotal_by_region_with_n.csv")
 
 ## prepping data
 # first four cols of the input data frame 

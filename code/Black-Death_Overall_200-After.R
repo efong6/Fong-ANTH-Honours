@@ -1,5 +1,5 @@
 library("tidyverse")
-x <- read.csv("x.csv")
+x <- read.csv("data/x.csv")
 
 ## prepping data
 # first four cols of the input data frame 

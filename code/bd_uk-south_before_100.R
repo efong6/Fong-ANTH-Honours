@@ -1,6 +1,6 @@
 library("tidyverse")
 
-source("my-useful-function.R")
+source("code/my-useful-function.R")
 bd_uksouth <- prepare_the_regional_data("uk_south", 1140, 1240)
 
 # Use these slope values for interpretation of the period
@@ -44,4 +44,4 @@ ggplot(data.frame(bd_uksouth$bootresultd[[2]])) +
   scale_x_continuous(limits = c(-0.8, 1)) +
   scale_y_continuous(limits = c(-1.25, 0.5))
 
-ggsave("bd_uk-south_before.pdf")
+ggsave("bd_uk-south_before_100.pdf")

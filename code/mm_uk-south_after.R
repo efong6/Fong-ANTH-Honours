@@ -1,7 +1,7 @@
 library("tidyverse")
 
-source("my-useful-function.R")
-mm_uksouth <- prepare_the_regional_data("uk_south", 1340, 1540)
+source("code/my-useful-function.R")
+mm_uksouth <- prepare_the_regional_data("uk_south", 1000, 1200)
 
 # Use these slope values for interpretation of the period
 # slope is -0.864 slope max 0.391 and slope min -1.752

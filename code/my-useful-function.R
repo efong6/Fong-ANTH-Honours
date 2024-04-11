@@ -3,7 +3,7 @@
 
 prepare_the_regional_data <- function(region, start_year, end_year){
   
-  regions <- read.csv("eutotal_by_region_with_n.csv")
+  regions <- read.csv("data/eutotal_by_region_with_n.csv")
   
   result1 <- 
   regions %>% 
@@ -58,7 +58,7 @@ exploring_window_size <- function(start_date,
   
 # for the window before the event, use eg.  -100 
 
-regions <- read.csv("eutotal_by_region_with_n.csv")
+regions <- read.csv("data/eutotal_by_region_with_n.csv")
 region_codes <- unique(regions$ctr2)
 
 results_list <- vector("list", length = length(region_codes))

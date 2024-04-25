@@ -31,4 +31,5 @@ ggplot(exploring_window_size_output_df) +
   geom_point() +
   geom_line()
 
-ggsave("exploring_window_size_1300_after.pdf")
+ggsave("exploring_window_size_1300_after.png",
+       dpi = 900)

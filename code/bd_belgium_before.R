@@ -42,6 +42,6 @@ ggplot(data.frame(bd_belgium$bootresultd[[2]])) +
         axis.text.x = element_blank(),
         axis.title.x = element_blank()) +
   scale_x_continuous(limits = c(-0.8, 1)) +
-  scale_y_continuous(limits = c(-1.5, 0.5))
+  scale_y_continuous(limits = c(-2, 0))
 
 ggsave("bd_belgium_before.pdf")
